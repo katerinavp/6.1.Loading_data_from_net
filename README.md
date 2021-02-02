@@ -1,6 +1,5 @@
 # 6.1.Loading_data_from_net
-=====================
-Отображения списка постов в RecyclerView, загруженных по сети с GitHub.
+**Отображения списка постов в RecyclerView, загруженных по сети с GitHub.**
 ***
 Ссылка на файл Json - https://github.com/katerinavp/GSON.git .
 ***
